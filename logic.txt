@@ -1,0 +1,13 @@
+logic of Cod - fish-based puns?
+	
+	game loads
+	first floor procedurally generated
+		chooses from N types of room for each floor (different floors have different types of room)
+		stored in text files of numbers representing files
+		if character touches edge of screen, next room loaded
+		final room far away from player
+		final room entered, small boss
+	second floor
+		repeat
+	etc.
+		swiggity swooty
